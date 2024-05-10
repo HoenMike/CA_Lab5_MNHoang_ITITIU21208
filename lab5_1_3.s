@@ -1,3 +1,4 @@
+# MNHoang - ITITIU21208
 .data
 prompt: .asciiz "Enter a 32-bit integer: "
 invalid: .asciiz "Invalid Input\n"
